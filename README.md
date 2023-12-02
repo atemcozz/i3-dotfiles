@@ -4,7 +4,7 @@
 
 ## Required packages
 ```
-alacritty picom-ftlabs-git ttf-jetbrains-mono-nerd micro \
+alacritty picom-ftlabs-git ttf-jetbrains-mono-nerd micro zsh \
 ttf-nerd-fonts-symbols feh rofi polybar jq ranger \
 pipewire pipewire-alsa pipewire-pulse pipewire-jack pavucontrol \
 cava bluez bluez-utils rofi-bluetooth-git rofi-power-menu imwheel 
