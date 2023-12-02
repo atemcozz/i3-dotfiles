@@ -4,10 +4,10 @@
 
 ## Required packages
 ```
-ranger picom-ftlabs-git ttf-jetbrains-mono-nerd \
-ttf-nerd-fonts-symbols feh rofi polybar jq \
+alacritty picom-ftlabs-git ttf-jetbrains-mono-nerd \
+ttf-nerd-fonts-symbols feh rofi polybar jq ranger \
 pipewire pipewire-alsa pipewire-pulse pipewire-jack pavucontrol \
-cava bluez bluez-utils rofi-bluetooth-git rofi-power-menu imwheelalacritty
+cava bluez bluez-utils rofi-bluetooth-git rofi-power-menu imwheel 
 ```
 ## Zsh plugins
 ```
